@@ -12,3 +12,7 @@
 
 #### ClassAdd1
 ![ClassAdd1_1](./image/ClassAdd1_1.PNG)  ![ClassAdd1_2](./image/ClassAdd1_2.PNG)
+
+#### ClassAdd2
+![ClassAdd2_1](./image/ClassAdd2_1.PNG) ![ClassAdd2_2](./image/ClassAdd2_2.PNG)
+![ClassAdd2_3](./image/ClassAdd2_3.PNG) ![ClassAdd2_4](./image/ClassAdd2_4.PNG)
