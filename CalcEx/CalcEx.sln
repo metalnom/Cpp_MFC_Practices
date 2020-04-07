@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalcEx", "CalcEx\CalcEx.vcxproj", "{A65F5A91-D242-48A0-881D-43918444F22F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65F5A91-D242-48A0-881D-43918444F22F}.Debug|x64.ActiveCfg = Debug|x64
+		{A65F5A91-D242-48A0-881D-43918444F22F}.Debug|x64.Build.0 = Debug|x64
+		{A65F5A91-D242-48A0-881D-43918444F22F}.Debug|x86.ActiveCfg = Debug|Win32
+		{A65F5A91-D242-48A0-881D-43918444F22F}.Debug|x86.Build.0 = Debug|Win32
+		{A65F5A91-D242-48A0-881D-43918444F22F}.Release|x64.ActiveCfg = Release|x64
+		{A65F5A91-D242-48A0-881D-43918444F22F}.Release|x64.Build.0 = Release|x64
+		{A65F5A91-D242-48A0-881D-43918444F22F}.Release|x86.ActiveCfg = Release|Win32
+		{A65F5A91-D242-48A0-881D-43918444F22F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D9F5F4A-BBC5-4902-96AA-3F0F2494A3C3}
+	EndGlobalSection
+EndGlobal
