@@ -9,3 +9,6 @@
 
 #### Bubble Sort
 ![Bubble Sort](./image/BubbleSort.PNG)
+
+#### ClassAdd1
+![ClassAdd1_1](./image/ClassAdd1_1.PNG)  ![ClassAdd1_2](./image/ClassAdd1_2.PNG)
