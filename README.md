@@ -16,3 +16,8 @@
 #### ClassAdd2
 ![ClassAdd2_1](./image/ClassAdd2_1.PNG) ![ClassAdd2_2](./image/ClassAdd2_2.PNG)
 ![ClassAdd2_3](./image/ClassAdd2_3.PNG) ![ClassAdd2_4](./image/ClassAdd2_4.PNG)
+
+#### MultiClasses
+![](./image/MultiClasses1.PNG)
+![](./image/MultiClasses2.PNG)
+![](./image/MultiClasses3.PNG)
