@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Enrollment.cpp
+  EnrollmentDlg.cpp
+C:\Users\metal\source\repos\Enrollment\Enrollment\EnrollmentDlg.cpp(237,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+C:\Users\metal\source\repos\Enrollment\Enrollment\EnrollmentDlg.cpp(242,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+C:\Users\metal\source\repos\Enrollment\Enrollment\EnrollmentDlg.cpp(247,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+  코드를 생성하고 있습니다...
+  Enrollment.vcxproj -> C:\Users\metal\source\repos\Enrollment\Debug\Enrollment.exe
