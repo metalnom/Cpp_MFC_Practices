@@ -32,3 +32,5 @@
 #### ListBoxMenu
 ![](./image/ListBoxMenu.PNG) 
 
+#### RGBSlide 
+![](./image/RGBSlide.PNG) 
