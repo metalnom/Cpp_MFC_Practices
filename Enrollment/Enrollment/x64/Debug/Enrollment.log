@@ -1,0 +1,54 @@
+﻿  pch.cpp
+  Enrollment.cpp
+  EnrollmentDlg.cpp
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(145,34): error C2440: '=': 'LPSTR'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(145,33): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(237,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(238,31): error C2440: '=': 'LPSTR'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(238,25): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(242,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(243,31): error C2440: '=': 'LPSTR'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(243,25): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(247,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(248,31): error C2440: '=': 'LPSTR'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(248,25): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(255,21): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const wchar_t *'입니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(255,21): message : 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(255,21): message : 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(255,21): message : 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(255,21): message : 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(259,21): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const wchar_t *'입니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(259,21): message : 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(259,21): message : 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(259,21): message : 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(259,21): message : 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(262,31): error C2440: '=': 'LPSTR'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(262,25): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(279,21): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const wchar_t *'입니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(279,21): message : 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(279,21): message : 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(279,21): message : 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(279,21): message : 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(280,32): error C2440: '=': 'LPSTR'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(280,26): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(285,32): error C2440: '=': 'LPSTR'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(285,26): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(299,21): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const wchar_t *'입니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(299,21): message : 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(299,21): message : 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(299,21): message : 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(299,21): message : 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(300,32): error C2440: '=': 'LPSTR'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(300,26): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(305,32): error C2440: '=': 'LPSTR'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(305,26): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(318,21): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const wchar_t *'입니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(318,21): message : 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(318,21): message : 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(318,21): message : 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(318,21): message : 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(319,32): error C2440: '=': 'LPSTR'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(319,26): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(324,32): error C2440: '=': 'LPSTR'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+D:\source\Enrollment\Enrollment\EnrollmentDlg.cpp(324,26): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  코드를 생성하고 있습니다...
