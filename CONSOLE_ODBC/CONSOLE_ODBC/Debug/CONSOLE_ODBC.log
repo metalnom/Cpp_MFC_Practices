@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  CONSOLE_ODBC.cpp
+D:\mfc_src\CONSOLE_ODBC\CONSOLE_ODBC\CONSOLE_ODBC.cpp(48,26): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+D:\mfc_src\CONSOLE_ODBC\CONSOLE_ODBC\CONSOLE_ODBC.cpp(50,26): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+D:\mfc_src\CONSOLE_ODBC\CONSOLE_ODBC\CONSOLE_ODBC.cpp(52,26): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+  CONSOLE_ODBC.vcxproj -> D:\mfc_src\CONSOLE_ODBC\Debug\CONSOLE_ODBC.exe
