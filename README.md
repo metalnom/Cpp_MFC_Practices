@@ -38,3 +38,5 @@
 ![](./image/TreeCtrl.PNG) 
 #### SearchFile 
 ![](./image/SearchFile.PNG) 
+#### SendReceiveMsg 
+![](./image/SendReceiveMsg.PNG) 

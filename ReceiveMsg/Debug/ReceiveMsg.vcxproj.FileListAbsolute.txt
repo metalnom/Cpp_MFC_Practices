@@ -1,0 +1,2 @@
+D:\mfc_src\ReceiveMsg\Debug\ReceiveMsg.exe
+D:\mfc_src\ReceiveMsg\Debug\ReceiveMsg.pdb

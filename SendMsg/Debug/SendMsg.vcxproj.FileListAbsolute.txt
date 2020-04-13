@@ -1,0 +1,2 @@
+D:\mfc_src\SendMsg\Debug\SendMsg.exe
+D:\mfc_src\SendMsg\Debug\SendMsg.pdb
