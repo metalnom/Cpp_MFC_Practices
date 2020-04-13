@@ -1,0 +1,2 @@
+D:\mfc_src\SearchFile\Debug\SearchFile.exe
+D:\mfc_src\SearchFile\Debug\SearchFile.pdb
