@@ -1,0 +1,2 @@
+D:\mfc_src\Editor\Debug\Editor.exe
+D:\mfc_src\Editor\Debug\Editor.pdb
